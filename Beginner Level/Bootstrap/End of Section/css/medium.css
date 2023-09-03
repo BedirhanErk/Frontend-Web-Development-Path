@@ -1,0 +1,99 @@
+* {
+    font-family: "Times New Roman", Times, serif;
+}
+
+.bg-yellow {
+    background-color: #FFC017; 
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.ml-minus-20 {
+    margin-left: -20px;
+}
+
+.main-image {
+    width: 160px;
+}
+
+.bg-s-dark {
+    background-color: rgba(25, 25, 25, 1);  
+}
+
+.border-none {
+    border: none;
+}
+
+.border-dark {
+    border-color: rgba(25, 25, 25, 1);
+}
+
+.text-s-dark {
+   color: rgba(25, 25, 25, 1);
+}
+
+.main-text {
+    font-size: 70px;
+    line-height: 74px;
+    letter-spacing: -0.05em;
+    color: rgba(8, 8, 8, 1);
+    font-weight: 400;
+    margin: 0;
+}
+
+.ma-image {
+    width: 75%;
+}
+
+.ma-image-p {
+    margin-top:-45px;
+}
+
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
+
+.trend-number {
+    font-weight: bold;
+    color: rgba(230, 230, 230, 1);
+    letter-spacing: 0;
+    line-height: 36px;
+    font-size: 30px;
+}
+
+.trend-top-text-size {
+    font-size: 14px;
+}
+
+.trend-top-img {
+    width: 20px;
+} 
+
+.post-img {
+    width: 100px;
+} 
+
+.f-size-16 {
+    font-size: 16px;
+}
+
+.f-size-13 {
+    font-size: 13px;
+}
+
+.discover-button {
+    border: 1px solid rgba(230, 230, 230, 1);
+    border-radius: 3px;
+}
+
+.text-green {
+    color: green;
+}
+
+.bottom-list {
+    color: rgba(117, 117, 117, 1);
+    font-weight: 400;
+    line-height: 20px;
+}
