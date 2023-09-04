@@ -218,9 +218,9 @@ button.ref:hover {
 }
 
 .messaging {
-  height: 50px; 
+  height: 48px; 
   position: -webkit-sticky; 
-  border-radius: 5px; 
+  border-radius: 5px 5px 0px 0px; 
   margin-left: auto; 
   right: 15px; 
   width: 300px;
@@ -242,4 +242,8 @@ button.ref:hover {
 
 .hr-2 {
   margin: 10px 15px 0px 15px;
+}
+
+.border-radius-50 {
+  border-radius: 50px
 }
