@@ -1,6 +1,6 @@
-# Frontend Web Development ([Patika.dev](https://academy.patika.dev/))
+# Frontend Web Development Path ([Patika.dev](https://academy.patika.dev/))
 
-## [Başlangıç Seviye Frontend Web Development Patikası](https://academy.patika.dev/tr/paths/baslangic-seviye-frontend-web-development-patikasi)
+## [Beginner Frontend Web Development Path](https://academy.patika.dev/tr/paths/baslangic-seviye-frontend-web-development-patikasi)
 
 ### HTML
 
@@ -36,4 +36,6 @@
 
 ![JavaScript](https://i.ibb.co/tptjwsx/Java-Script.gif)
 
-![Certificate]()
+Certificate of Completion:
+
+![Certificate](https://i.hizliresim.com/cwdgmiu.jpg)
